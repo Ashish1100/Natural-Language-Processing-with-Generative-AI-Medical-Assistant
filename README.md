@@ -1,4 +1,4 @@
-# Natural Language Processing with Generative AI: Medical Assistant 🩺🤖
+# Natural Language Processing with Generative AI: Medical Assistant 🩺
 
 ## Overview
 
