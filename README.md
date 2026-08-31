@@ -26,13 +26,6 @@ Medical Assistant v2 is an intelligent, conversational AI system designed to pro
 3. **Vector Storage**: Embeddings are indexed and stored in ChromaDB.  
 4. **Retrieval & Generation**: User queries are embedded, matched against the vector store using similarity search, and the relevant context is passed to the Gemini LLM to generate a precise response.  
 
-
-## Future Enhancements
-
-- Integration of specialized medical LLMs (e.g., Med-PaLM) for highly clinical inferences.  
-- Adding a user-friendly frontend dashboard (e.g., Streamlit or React).  
-- Implementation of conversation memory for multi-turn diagnostic dialogue.  
-
 ## 👨‍💻 Author
 
 **Ashish**  
