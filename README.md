@@ -12,7 +12,7 @@
 [![Mistral AI](https://img.shields.io/badge/Mistral-7B--Instruct--v0.2-FF7000?style=flat&logo=mistralai&logoColor=white)](https://mistral.ai/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Hub-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-FF6F61?style=flat)](https://www.trychroma.com/)
-[![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-all--MiniLM--L6--v2-blue?style=flat)](https://www.sbert.net/)
+<!-- [![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-all--MiniLM--L6--v2-blue?style=flat)](https://www.sbert.net/) -->
 
 <!-- License & Social Badges -->
 
