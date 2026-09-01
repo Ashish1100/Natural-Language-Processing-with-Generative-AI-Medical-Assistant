@@ -1,6 +1,24 @@
 # Natural Language Processing with Generative AI: Medical Assistant
 
-## Table of Contents
+<!-- Live Demo / Notebook Badges -->
+<!--  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-medical-assistant.streamlit.app/) -->
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+
+<!-- Core Technology Stack Badges -->
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-0.3.x-1C3C3C?style=flat&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![Mistral AI](https://img.shields.io/badge/Mistral-7B--Instruct--v0.2-FF7000?style=flat&logo=mistralai&logoColor=white)](https://mistral.ai/)
+[![llama.cpp](https://img.shields.io/badge/llama.cpp-GPU%20cuBLAS-000000?style=flat)](https://github.com/ggerganov/llama.cpp)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-FF6F61?style=flat)](https://www.trychroma.com/)
+[![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-all--MiniLM--L6--v2-blue?style=flat)](https://www.sbert.net/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Hub-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![PyMuPDF](https://img.shields.io/badge/PyMuPDF-PDF%20Ingestion-2B579A?style=flat)](https://pymupdf.readthedocs.io/)
+
+<!-- License & Social Badges -->
+<!--  [![License: Non-Commercial](https://img.shields.io/badge/License-Educational%20%2F%20Non--Commercial-green.svg)](LICENSE) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishsaha21/)
+
+<!--## Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Problem Statement](#problem-statement)
@@ -15,7 +33,7 @@
 11. [Business Impact and Recommendations](#business-impact-and-recommendations)
 12. [Getting Started](#getting-started)
 13. [Project Structure](#project-structure)
-14. [Author](#author)
+14. [Author](#author) --> 
 
 ---
 
@@ -62,9 +80,9 @@ The primary objective is to develop a RAG-based AI solution that:
 
 ## System Architecture
 
-The system implements a three-stage Retrieval-Augmented Generation pipeline:
-
-
+<p align="center">
+  <img src="./assets/System Architecture.png" alt="NLP Project" width="800"/>
+</p>
 
 ---
 
@@ -362,18 +380,58 @@ Project_Natural_Language_Processing_with_Generative_AI__Medical_Assistant_v2.ipy
     ├── Relevance Scoring
     └── LLM-as-a-Judge Framework
 ```
+---
+
+## **License & Legal**
+
+```
+© 2025 Ashish Saha
+
+This project is a personal initiative intended for educational use only.
+
+Permission is granted to use, copy, and modify this software for learning and research purposes.
+Commercial use, sale, or monetization of this software or its derivatives is strictly prohibited.
+
+The software is provided “as is”, without warranty of any kind.
+
+```
 
 ---
 
 ## Author
 
-**Ashish**
+<div align="center">
 
-- LinkedIn: [https://linkedin.com/in/ashishsaha21/](https://linkedin.com/in/ashishsaha21/)
-- Email: ashishsaha.software@gmail.com
+### **Ashish Saha**
+**AI Engineering** | **ML Research** | **Data Science**
+
+*Specializing in building intelligent ML systems and transforming data into actionable insights.*
+
+**Tech Stack:** Python • TensorFlow/Keras • PyTorch • XGBoost • Scikit-learn 
+
+<a href="https://github.com/Ashish1100" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/ashishsaha21/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:ashishsaha.software@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
 
 ---
 
-## License
+</div>
 
-This project is intended for educational and demonstration purposes. The Merck Manual is copyrighted material and is used here solely for academic research and prototyping. Any commercial use requires proper licensing from the copyright holder.
+<div align="center">
+
+### **Star ⭐ this repo if you found this project helpful!**
+
+
+---
+
+*Made with ❤️ by Ashish Saha*
+
+</div>
