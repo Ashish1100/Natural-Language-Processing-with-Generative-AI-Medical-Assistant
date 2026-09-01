@@ -1,6 +1,6 @@
 <div align="center">
   
-# Natural Language Processing with Generative AI: Medical Assistant
+# NLP with Generative AI: AI Medical Assistant
 
 <!-- Live Demo / Notebook Badges -->
 <!--  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-medical-assistant.streamlit.app/) -->
