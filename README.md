@@ -3,18 +3,16 @@
 <!-- Live Demo / Notebook Badges -->
 <!--  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-medical-assistant.streamlit.app/) -->
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://ashish1100.github.io/Natural-Language-Processing-with-Generative-AI-Medical-Assistant/)
-[![License: Non-Commercial](https://img.shields.io/badge/License-Educational%20%2F%20Non--Commercial-green.svg)](https://github.com/Ashish1100/Natural-Language-Processing-with-Generative-AI-Medical-Assistant/blob/c65cfc8d117f1e4c903ad828782615e61b40edb3/license.md)
+[![License: Non-Commercial](https://img.shields.io/badge/License-%20%20Non--Commercial-green.svg)](https://github.com/Ashish1100/Natural-Language-Processing-with-Generative-AI-Medical-Assistant/blob/c65cfc8d117f1e4c903ad828782615e61b40edb3/license.md)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishsaha21/)
 
 <!-- Core Technology Stack Badges -->
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-0.3.x-1C3C3C?style=flat&logo=langchain&logoColor=white)](https://www.langchain.com/)
 [![Mistral AI](https://img.shields.io/badge/Mistral-7B--Instruct--v0.2-FF7000?style=flat&logo=mistralai&logoColor=white)](https://mistral.ai/)
-[![llama.cpp](https://img.shields.io/badge/llama.cpp-GPU%20cuBLAS-000000?style=flat)](https://github.com/ggerganov/llama.cpp)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Hub-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-FF6F61?style=flat)](https://www.trychroma.com/)
 [![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-all--MiniLM--L6--v2-blue?style=flat)](https://www.sbert.net/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Hub-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/)
-[![PyMuPDF](https://img.shields.io/badge/PyMuPDF-PDF%20Ingestion-2B579A?style=flat)](https://pymupdf.readthedocs.io/)
 
 <!-- License & Social Badges -->
 
