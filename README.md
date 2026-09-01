@@ -2,7 +2,7 @@
 
 <!-- Live Demo / Notebook Badges -->
 <!--  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-medical-assistant.streamlit.app/) -->
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://ashish1100.github.io/Natural-Language-Processing-with-Generative-AI-Medical-Assistant/)
 [![License: Non-Commercial](https://img.shields.io/badge/License-Educational%20%2F%20Non--Commercial-green.svg)](https://github.com/Ashish1100/Natural-Language-Processing-with-Generative-AI-Medical-Assistant/blob/c65cfc8d117f1e4c903ad828782615e61b40edb3/license.md)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishsaha21/)
 
