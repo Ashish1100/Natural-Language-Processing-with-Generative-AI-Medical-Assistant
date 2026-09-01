@@ -82,7 +82,7 @@ The primary objective is to develop a RAG-based AI solution that:
 ## System Architecture
 
 <p align="center">
-  <img src="./assets/System Architecture.png" alt="NLP Project" width="800"/>
+  <img src="./assets/Architecture.png" alt="NLP Project" width="800"/>
 </p>
 
 ---
