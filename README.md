@@ -15,7 +15,7 @@
 [![PyMuPDF](https://img.shields.io/badge/PyMuPDF-PDF%20Ingestion-2B579A?style=flat)](https://pymupdf.readthedocs.io/)
 
 <!-- License & Social Badges -->
-<!--  [![License: Non-Commercial](https://img.shields.io/badge/License-Educational%20%2F%20Non--Commercial-green.svg)](LICENSE) -->
+[![License: Non-Commercial](https://img.shields.io/badge/License-Educational%20%2F%20Non--Commercial-green.svg)](https://github.com/Ashish1100/Natural-Language-Processing-with-Generative-AI-Medical-Assistant/blob/c65cfc8d117f1e4c903ad828782615e61b40edb3/license.md)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishsaha21/)
 
 <!--## Table of Contents
